@@ -1,0 +1,18 @@
+{
+  "shared_action.cancel": "Annuler",
+  "shared_action.close": "Fermer",
+  "shared_action.delete": "Supprimer",
+  "shared_action.pagination.label": "Pagination",
+  "shared_action.pagination.next": "Aller à la page suivante",
+  "shared_action.pagination.page": "Aller à la page %{page}",
+  "shared_action.pagination.previous": "Aller à la page précédente",
+  "shared_action.see_less": "Voir moins",
+  "shared_action.next": "Suivant",
+  "shared_action.no": "Non",
+  "shared_action.previous": "Précédent",
+  "shared_action.quit": "Quitter",
+  "shared_action.see": "Voir",
+  "shared_action.see_all": "Tout voir",
+  "shared_action.see_more": "Voir plus",
+  "shared_action.yes": "Oui"
+}

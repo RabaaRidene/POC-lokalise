@@ -1,0 +1,18 @@
+{
+  "shared_action.cancel": "Cancel",
+  "shared_action.close": "Close",
+  "shared_action.delete": "Delete",
+  "shared_action.pagination.label": "Pagination",
+  "shared_action.pagination.next": "Go to next page",
+  "shared_action.pagination.page": "Go to page %{page}",
+  "shared_action.pagination.previous": "Go to previous page",
+  "shared_action.see_less": "Show less",
+  "shared_action.next": "Next",
+  "shared_action.no": "No",
+  "shared_action.previous": "Previous",
+  "shared_action.quit": "Leave",
+  "shared_action.see": "See",
+  "shared_action.see_all": "See all",
+  "shared_action.see_more": "See more",
+  "shared_action.yes": "Yes"
+}
