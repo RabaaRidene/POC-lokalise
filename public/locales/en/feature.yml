@@ -1,0 +1,17 @@
+---
+en:
+  feature:
+    html: |-
+      By listening <strong>for opportunities:</strong>
+      <br>
+      <ul>
+      <li>
+       - you'll be happy!</li>
+      </ul>
+    plural:
+      one: 1 result for "%{query}"
+      other: '%{count} results for "%{query}"'
+      zero: 0 results for "%{query}"
+    use_terms:
+      title: "(Terms of use)"
+    variables: "%{var1} and %{var2}"
