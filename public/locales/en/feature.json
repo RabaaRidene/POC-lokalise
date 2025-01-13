@@ -4,7 +4,8 @@
   "feature.plural": {
     "one": "",
     "other": "",
-    "zero": ""
+    "zero": "",
+    "many": "",
   },
   "feature.glossary": "",
   "feature.html": "",
