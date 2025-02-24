@@ -77,5 +77,8 @@
   "shared.years_one": "%{count} year",
   "shared.years_other": "%{count} years",
   "shared.years_zero": "%{count} years",
-  "shared.yes": "Yes"
+  "shared.yes": "Yes",
+  "shared": {
+    "add_tag": "Put"
+  }
 }
